@@ -1,7 +1,6 @@
-### Hi there! 👋
-### I'm Nicolas, a Web Develope
+### Hi there! 👋, I'm Nicolas
 
-💻 I'm currently working on [@zanshinsoftware][zanshinProfile]
+💻 I'm currently a front-end web development at [Nelogica][nelogicaURL]
 
 🎓 I’m graduating in Information Systems
 
@@ -20,10 +19,7 @@
 
 ### ✨ GitHub Stats
 
-<p>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=nhgrave&show_icons=true" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhgrave&layout=compact" />
-</p>
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=nhgrave&show_icons=true" />
 
 <!-- URLs -->
-[zanshinProfile]: https://github.com/zanshinsoftware
+[nelogicaURL]: https://www.nelogica.com.br/
